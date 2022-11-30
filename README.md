@@ -18,7 +18,7 @@ Part 1: Create the Earthquake Visualization
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 ## Part 1: Create the Earthquake Visualization
-![Step-1](Images/Leaflet_Step_1.png)
+![Step-1](Images/2-BasicMap.png)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 1. Get your dataset.
@@ -38,7 +38,7 @@ Plot a second dataset on your map to illustrate the relationship between tectoni
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 The following image is an example screenshot of what you should produce:
 
-![Step-2](Images/Leaflet_Step_2.png)
+![Step-2](Images/5-Advanced.png)
 
 Perform the following tasks:
 Plot the tectonic plates dataset on the map in addition to the earthquakes.
