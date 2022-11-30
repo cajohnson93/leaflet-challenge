@@ -34,7 +34,7 @@ Your visualization should look something like the preceding map.
 
 ## Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates Links to an external site..
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 The following image is an example screenshot of what you should produce:
 
